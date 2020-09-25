@@ -1,6 +1,5 @@
 # project-mad-libs
 
-<<<<<<< HEAD
 ## Goal:
 
 > Let user input animal and display a sentence using that word. The form should disappear on click, and the sentence should appear on click (initially hidden). 
@@ -29,7 +28,8 @@
     - Reveal the animal h3
         - element.classList.toggle('hidden')
         - element.style.display = 'block'
-=======
+
+    
 - This is dani's mad-libs code!
 - We all worked on it as a team!
 - But it's time to swich driver's!
@@ -39,4 +39,3 @@
 # Some New Code
 
 Check out this new code!
->>>>>>> f087fc38d5a37197d9bbb42f0888fdcbc1f4bb5d
